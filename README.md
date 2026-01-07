@@ -1,4 +1,4 @@
-# UniBus - High-Performance Campus Bus Tracking System
+# UniBus
 
 **UniBus** is a scalable, real-time transportation network platform designed for SRM University. It provides a native mobile experience for students to track college buses and for drivers to broadcast live location data with minimal latency.
 
